@@ -8,6 +8,12 @@ It is a command line batch script program that helps us to open any file without
 1) Secure
 2) Time saving
 
+## Steps for how it works
+
 ### Clone OpenThroughBatch: <br />
 
 $ git clone https://github.com/Rohit-MyRG/OpenThroughBatch <br />
+
+$ Open "Open.bat" by double click <br/>
+
+$ Enter the Password "Password" <br/>
