@@ -8,7 +8,6 @@ pause
 exit
 
 :open
-D:
 cd dir1\dir2\dir3
 start FileName.xlsx
 exit
